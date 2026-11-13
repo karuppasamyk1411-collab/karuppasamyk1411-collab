@@ -70,11 +70,6 @@ An interactive site where a terminal detects and blocks a simulated brute-force 
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=karuppasamyk1411-collab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuppasamyk1411-collab&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
-
 <img src="https://streak-stats.demolab.com?user=karuppasamyk1411-collab&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 ---
